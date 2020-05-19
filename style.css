@@ -135,3 +135,13 @@ ul li{
 .btn:hover{
     background-color:grey;
 }
+
+footer{
+    text-align: center;
+    padding: 70px;
+    background-color: rgb(153, 152, 152);
+    color: white;
+}
+footer h1,p{
+    padding: 10px;
+}
