@@ -11,6 +11,7 @@ nav{
     display: flex;
     justify-content: space-between;
     width: 100%;
+    background-color: white;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16);
 }
 
@@ -29,6 +30,19 @@ ul li{
     text-decoration: none;
     color:black;
     padding: 8px;
+}
+
+.bottom-left{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    
+    
+}
+.slogan{
+    padding: 18px;
+    letter-spacing: 2px;
+    color: rgba(29, 28, 28, 0.486);
 }
 
 
