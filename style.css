@@ -102,3 +102,36 @@ ul li{
 .menu-pic img{
     border-radius: 9px;
 }
+.contact-container{
+    width: 1100px;
+    margin: 0px auto;
+    padding: 70px 0;
+}
+
+.contact{
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}
+.contact-container p{
+    margin-bottom: 15px;
+}
+.address{
+    color: steelblue;
+    margin-bottom: 20px;
+}
+.text-field{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 16px;
+    margin-bottom: 8px;
+}
+.btn{
+    font-size: 16px;
+    padding: 12px 24px;
+    background-color: #f1f1f1;
+    
+}
+.btn:hover{
+    background-color:grey;
+}
